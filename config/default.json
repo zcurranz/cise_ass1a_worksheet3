@@ -1,0 +1,7 @@
+// default.json
+
+{
+    "mongoURI":
+      "mongodb+srv://Admin:sReyQx$5.6N6JZC@merntutorialcluster.ovbyq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  }
+   /* Replace <password> with your database password */
